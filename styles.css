@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: rightt;
+  color: #f2f2f2;
+  text-align: ce;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+
+body {
+  background-color: orange;
+  font-weight: 400;
+  font-size: 1.5rem;
+  text-decoration-color: green;
+  text-align: center;
+}
+height: 5px;
+width: 8%;
+border-style: dotted;
+border-color: blue;
+border-width: 8px;
+}
+p{
+  text-align: right;
+}
+.button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.books-png{
+  height:300px;}
+.timetable-png{
+  height:300px;
+}
+form{
+  text-align: center;
+}
+
+}
+h1{
+  color: blue;
+  text-align:center;
+}
+h2{
+  color: blue;
+  text-align: center;
+}
+h3{
+  color:green;
+  text-align: center;
+}
+th, td {
+  border: 2px solid black;
+  border-radius: 5px;
+  color: green;
+}
+textarea{
+  resize:horizontal;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 50%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+`
